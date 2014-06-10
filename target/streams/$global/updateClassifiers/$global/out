@@ -1,0 +1,1158 @@
+[debug] :: resolving dependencies :: katas#katas$sources_javadoc_2.10;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.10.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@34ed6891
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.4
+[debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[info] Resolving org.reactivemongo#reactivemongo_2.10;0.10.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@298a5b60
+[debug] sbt-chain: module revision found in cache: org.reactivemongo#reactivemongo_2.10;0.10.0
+[debug] 	local: revision in cache: org.reactivemongo#reactivemongo_2.10;0.10.0
+[debug] 	found org.reactivemongo#reactivemongo_2.10;0.10.0 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[info] Resolving org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e546b84
+[debug] sbt-chain: module revision found in cache: org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0
+[debug] 	local: revision in cache: org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0
+[debug] 	found org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.10.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56354ee1
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.2
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.2
+[debug] 	found org.scala-lang#scala-compiler;2.10.2 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9918deb
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.2
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.2
+[debug] 	found org.scala-lang#scala-reflect;2.10.2 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[info] Resolving org.reactivemongo#reactivemongo-bson_2.10;0.10.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68b742b6
+[debug] sbt-chain: module revision found in cache: org.reactivemongo#reactivemongo-bson_2.10;0.10.0
+[debug] 	local: revision in cache: org.reactivemongo#reactivemongo-bson_2.10;0.10.0
+[debug] 	found org.reactivemongo#reactivemongo-bson_2.10;0.10.0 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[info] Resolving io.netty#netty;3.6.5.Final ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b19f307
+[debug] sbt-chain: module revision found in cache: io.netty#netty;3.6.5.Final
+[debug] 	local: revision in cache: io.netty#netty;3.6.5.Final
+[debug] 	found io.netty#netty;3.6.5.Final in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[info] Resolving com.typesafe.akka#akka-actor_2.10;2.2.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2812021c
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.10;2.2.1
+[debug] 	local: revision in cache: com.typesafe.akka#akka-actor_2.10;2.2.1
+[debug] 	found com.typesafe.akka#akka-actor_2.10;2.2.1 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[info] Resolving com.typesafe#config;1.0.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ee5ebba
+[debug] sbt-chain: module revision found in cache: com.typesafe#config;1.0.2
+[debug] 	local: revision in cache: com.typesafe#config;1.0.2
+[debug] 	found com.typesafe#config;1.0.2 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[info] Resolving com.typesafe.play#play-iteratees_2.10;2.2.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f9a37ae
+[debug] sbt-chain: module revision found in cache: com.typesafe.play#play-iteratees_2.10;2.2.0
+[debug] 	local: revision in cache: com.typesafe.play#play-iteratees_2.10;2.2.0
+[debug] 	found com.typesafe.play#play-iteratees_2.10;2.2.0 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[info] Resolving org.scala-stm#scala-stm_2.10;0.7 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29d25e1d
+[debug] sbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.10;0.7
+[debug] 	local: revision in cache: org.scala-stm#scala-stm_2.10;0.7
+[debug] 	found org.scala-stm#scala-stm_2.10;0.7 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[info] Resolving org.apache.logging.log4j#log4j-api;2.0-beta9 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4145c0a2
+[debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-api;2.0-beta9
+[debug] 	local: revision in cache: org.apache.logging.log4j#log4j-api;2.0-beta9
+[debug] 	found org.apache.logging.log4j#log4j-api;2.0-beta9 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[info] Resolving org.apache.logging.log4j#log4j-core;2.0-beta9 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1023378a
+[debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-core;2.0-beta9
+[debug] 	local: revision in cache: org.apache.logging.log4j#log4j-core;2.0-beta9
+[debug] 	found org.apache.logging.log4j#log4j-core;2.0-beta9 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [runtime]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [test]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [runtime]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->default(compile)]
+[info] Resolving org.scalatest#scalatest_2.10;2.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ce44130
+[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.10;2.0
+[debug] 	local: revision in cache: org.scalatest#scalatest_2.10;2.0
+[debug] 	found org.scalatest#scalatest_2.10;2.0 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile-internal]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [optional]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [provided]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [runtime-internal]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [runtime]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [optional]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [test-internal]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [test]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [runtime]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [compile->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [runtime->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test->master]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [optional]
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [provided]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo_2.10;0.10.0 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.2 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.2 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.reactivemongo#reactivemongo-bson_2.10;0.10.0 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2.1 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.2 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->com.typesafe.play#play-iteratees_2.10;2.2.0 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.0-beta9 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.0-beta9 [test-internal->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test-internal->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test-internal->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test-internal->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.0 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for katas#katas$sources_javadoc_2.10;1.0 [scala-tool]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.4
+[debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.4 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#jline;2.10.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#jline;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#jline;2.10.4
+[debug] 	found org.scala-lang#jline;2.10.4 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->default(compile)]
+[info] Resolving org.fusesource.jansi#jansi;1.4 ...
+[debug] sbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
+[debug] 	local: revision in cache: org.fusesource.jansi#jansi;1.4
+[debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->runtime]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->compile]
+[debug] == resolving dependencies katas#katas$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->master]
+[debug] 	resolved ivy file produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/katas/katas$sources_javadoc_2.10/1.0/resolved.xml.xml
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar(doc)
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo_2.10/0.10.0/docs/reactivemongo_2.10-javadoc.jar
+[debug] 	[NOT REQUIRED] org.reactivemongo#reactivemongo_2.10;0.10.0!reactivemongo_2.10.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo_2.10/0.10.0/srcs/reactivemongo_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo_2.10;0.10.0!reactivemongo_2.10.jar(doc) (6715ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.10/0.10.0/reactivemongo_2.10-0.10.0-sources.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo_2.10;0.10.0!reactivemongo_2.10.jar(src) (1011ms)
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/docs/reactivemongo-bson-macros_2.10-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/srcs/reactivemongo-bson-macros_2.10-sources.jar
+[debug] 	[NOT REQUIRED] org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0!reactivemongo-bson-macros_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0!reactivemongo-bson-macros_2.10.jar(doc) (2309ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson-macros_2.10/0.10.0/reactivemongo-bson-macros_2.10-0.10.0-sources.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson-macros_2.10;0.10.0!reactivemongo-bson-macros_2.10.jar(src) (908ms)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.2!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.2!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.2!scala-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.2!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.2!scala-reflect.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.2!scala-reflect.jar(src)
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo-bson_2.10/0.10.0/docs/reactivemongo-bson_2.10-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.reactivemongo/reactivemongo-bson_2.10/0.10.0/srcs/reactivemongo-bson_2.10-sources.jar
+[debug] 	[NOT REQUIRED] org.reactivemongo#reactivemongo-bson_2.10;0.10.0!reactivemongo-bson_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-javadoc.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson_2.10;0.10.0!reactivemongo-bson_2.10.jar(doc) (4493ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/reactivemongo/reactivemongo-bson_2.10/0.10.0/reactivemongo-bson_2.10-0.10.0-sources.jar
+[info] 	[SUCCESSFUL ] org.reactivemongo#reactivemongo-bson_2.10;0.10.0!reactivemongo-bson_2.10.jar(src) (844ms)
+[debug] 		tried /home/f3r10/.ivy2/local/io.netty/netty/3.6.5.Final/jars/netty.jar
+[debug] 		tried /home/f3r10/.ivy2/local/io.netty/netty/3.6.5.Final/docs/netty-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/io.netty/netty/3.6.5.Final/srcs/netty-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.6.5.Final!netty.jar (4243ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-javadoc.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.6.5.Final!netty.jar(doc) (46940ms)
+[debug] 		tried http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-sources.jar
+[info] downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/io/netty/netty/3.6.5.Final/netty-3.6.5.Final-sources.jar
+[info] 	[SUCCESSFUL ] io.netty#netty;3.6.5.Final!netty.jar(src) (4805ms)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.10;2.2.1!akka-actor_2.10.jar
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe.akka/akka-actor_2.10/2.2.1/docs/akka-actor_2.10-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe.akka/akka-actor_2.10/2.2.1/srcs/akka-actor_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-javadoc.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.10;2.2.1!akka-actor_2.10.jar(doc) (4599ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.10/2.2.1/akka-actor_2.10-2.2.1-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.10;2.2.1!akka-actor_2.10.jar(src) (1411ms)
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe/config/1.0.2/jars/config.jar
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe/config/1.0.2/srcs/config-sources.jar
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe/config/1.0.2/docs/config-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.0.2!config.jar (1740ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.0.2!config.jar(src) (1169ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/typesafe/config/1.0.2/config-1.0.2-javadoc.jar
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.0.2!config.jar(doc) (1249ms)
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe.play/play-iteratees_2.10/2.2.0/docs/play-iteratees_2.10-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/com.typesafe.play/play-iteratees_2.10/2.2.0/srcs/play-iteratees_2.10-sources.jar
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-iteratees_2.10;2.2.0!play-iteratees_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[debug] 		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar
+[info] downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar ...
+[debug] 	Typesafe repository releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar
+[debug] 	Typesafe repository releases: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar.sha1
+[debug] sha1 OK for http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-sources.jar
+[info] 	[SUCCESSFUL ] com.typesafe.play#play-iteratees_2.10;2.2.0!play-iteratees_2.10.jar(src) (937ms)
+[warn] 	[FAILED     ] com.typesafe.play#play-iteratees_2.10;2.2.0!play-iteratees_2.10.jar(doc):  (0ms)
+[warn] ==== local: tried
+[warn]   /home/f3r10/.ivy2/local/com.typesafe.play/play-iteratees_2.10/2.2.0/docs/play-iteratees_2.10-javadoc.jar
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[warn] ==== Typesafe repository releases: tried
+[warn]   http://repo.typesafe.com/typesafe/releases/com/typesafe/play/play-iteratees_2.10/2.2.0/play-iteratees_2.10-2.2.0-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.scala-stm/scala-stm_2.10/0.7/docs/scala-stm_2.10-javadoc.jar
+[debug] 	[NOT REQUIRED] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.scala-stm/scala-stm_2.10/0.7/srcs/scala-stm_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-javadoc.jar
+[info] 	[SUCCESSFUL ] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar(doc) (2968ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scala-stm/scala-stm_2.10/0.7/scala-stm_2.10-0.7-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar(src) (1079ms)
+[debug] 		tried /home/f3r10/.ivy2/local/org.apache.logging.log4j/log4j-api/2.0-beta9/srcs/log4j-api-sources.jar
+[debug] 	[NOT REQUIRED] org.apache.logging.log4j#log4j-api;2.0-beta9!log4j-api.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.apache.logging.log4j/log4j-api/2.0-beta9/docs/log4j-api-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-sources.jar
+[info] 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.0-beta9!log4j-api.jar(src) (1060ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9-javadoc.jar
+[info] 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.0-beta9!log4j-api.jar(doc) (1604ms)
+[debug] 		tried /home/f3r10/.ivy2/local/org.apache.logging.log4j/log4j-core/2.0-beta9/docs/log4j-core-javadoc.jar
+[debug] 		tried /home/f3r10/.ivy2/local/org.apache.logging.log4j/log4j-core/2.0-beta9/srcs/log4j-core-sources.jar
+[debug] 	[NOT REQUIRED] org.apache.logging.log4j#log4j-core;2.0-beta9!log4j-core.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-javadoc.jar
+[info] 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.0-beta9!log4j-core.jar(doc) (4413ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9-sources.jar
+[info] 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.0-beta9!log4j-core.jar(src) (1767ms)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.10;2.0!scalatest_2.10.jar(doc)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.10;2.0!scalatest_2.10.jar
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.10;2.0!scalatest_2.10.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
+[debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
+[debug] :: resolution report :: resolve 432ms :: artifacts dl 97338ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: com.typesafe.play#play-iteratees_2.10;2.2.0!play-iteratees_2.10.jar(doc)
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 compile produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-compile.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 runtime produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-runtime.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 test produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-test.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 provided produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-provided.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 optional produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-optional.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 compile-internal produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-compile-internal.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 runtime-internal produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-runtime-internal.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 test-internal produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-test-internal.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 plugin produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-plugin.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 sources produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-sources.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 docs produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-docs.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 pom produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-pom.xml
+[debug] 	report for katas#katas$sources_javadoc_2.10;1.0 scala-tool produced in /home/f3r10/IdeaProjects/Katas/target/resolution-cache/reports/katas-katas$sources_javadoc_2.10-scala-tool.xml
+[debug] 	resolve done (432ms resolve - 97338ms download)

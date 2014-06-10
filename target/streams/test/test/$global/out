@@ -1,0 +1,8 @@
+[debug] Running TaskDef(GetIdOfUrl, org.scalatest.tools.Framework$$anon$1@57719a55, false, [SuiteSelector])
+[info] Run completed in 161 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	GetIdOfUrl

@@ -1,0 +1,6 @@
+[info] FizzBuzzTest:
+[info] FizzBuzz
+[info] - should return fizz if the number is dividable by 3 *** FAILED ***
+[info]   "[3]" was not equal to "[fizz]" (FizzBuzzTest.scala:8)
+[info] - should return buzz if the number is dividable by 5 *** FAILED ***
+[info]   <(), the Unit value> was not equal to "buzz" (FizzBuzzTest.scala:13)

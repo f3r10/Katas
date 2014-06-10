@@ -1,0 +1,3 @@
+[info] GetIdOfUrl:
+[info] SplitUrl.getId
+[info] - should return the id founded in the url
