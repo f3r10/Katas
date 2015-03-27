@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+   <LinearLayout
+       android:layout_width="0px"
+       android:layout_height="match_parent"
+       android:layout_weight="2"
+       android:orientation="vertical"
+       >
+       <TextView
+           android:id="@+id/idSaludo"
+           android:text="@string/hello_world"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <EditText
+           android:id="@+id/idEditText"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="center"/>
+       <Button
+           android:id="@+id/idButton"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Enviar"
+           android:gravity="center"/>
+       <Button
+           android:id="@+id/idButtonChange"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_below="@id/idButton"
+           android:text="Cambiar"/>
+    </LinearLayout>
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/idFrame"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="2">
+        <ProgressBar
+            android:id="@+id/idProgessBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            />
+    </FrameLayout>
+
+</LinearLayout>
